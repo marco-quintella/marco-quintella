@@ -32,6 +32,9 @@
 - Math Solving Problems \m/
 - Statistics
 
+### Get in touch
+2om.marco.quintella@gmail.com
+
 <!--
 **marco-quintella/marco-quintella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
