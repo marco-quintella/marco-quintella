@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue-v3.3-42b883"></a>
+    <a href="https://v2.vuejs.org/"><img src="https://img.shields.io/badge/Vue-v2.7-42b883"></a>
+    <a href="https://unity.com/pt/products/unity-engine"><img src="https://img.shields.io/badge/Unity-2022.3.8f1-000000"></a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/whats-new/csharp-11"><img src="https://img.shields.io/badge/C%23-v11-75b6e7"></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-v5.2-3178c6"></a>
+    <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-v10.2-ed2945"></a>
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-v20-026e00"></a>
+</p>
+
 <center>
   <table>
     <tr>
