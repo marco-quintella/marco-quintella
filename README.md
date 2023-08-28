@@ -21,8 +21,9 @@
 </center>
 
 ### My current work
-- Part of Front-end Team at Athlos.gg by Gfinity PLC.
+- Part of Front-end Team at [Athlos.gg](https://athlos.gg/) by Gfinity PLC.
 - Web 3 Full-stack Developer at [Meet With Wallet](https://meetwithwallet.xyz/).
+- Currently Develiping a TCG Mobile Game on Unity 3d.
 - Currently Developing Vue Scape, a Styless Front End Vue Framework focused on Developer Productivity and Code Decoupling.
 - Curently Developing Sovereign Financial, a Web 3 Analytics tool focused on delivering a easy, fair and funny environment to get feedback and keep track on yout crypto investments.
 
@@ -31,6 +32,7 @@
 - Nuxt.js, Pinia, Vuex
 - Typescript > Javascript
 - React.js, Redux, React Native
+- C# 11
 - Go Lang!
 - Rust
 - Node.js, Express, Nest.js
